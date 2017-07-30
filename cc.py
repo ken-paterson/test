@@ -7,6 +7,6 @@ EU = gdp * exR
 print (EU)
 
 if EU < 500 :
-    print ("you cannot go on holiday yet")
+    print ("you cannot go on holiday yet but soon")
 else:
     print ("Holiday!")
